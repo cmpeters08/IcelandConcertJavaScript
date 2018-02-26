@@ -1,0 +1,21 @@
+body {
+	background-image: url("iceland.jpg");
+  }
+
+  h1{
+	  color: maroon;
+  }
+
+  #main{
+	  text-align: center;
+  }
+  #iceland-flag-image{
+    height: 190px;
+    width: 285px;
+  }
+
+.events-class{
+  padding: 4%;
+  background-color: rgba(240, 248, 255, 0.35);
+}
+
